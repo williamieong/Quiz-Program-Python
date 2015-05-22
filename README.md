@@ -6,7 +6,6 @@ The following is a walkthrough on how to create a quiz using this program.
 1) Create a new quiz object
 
 e.g 
-               // Name of Quiz, Number of Questions
 testQuiz = Quiz(“William_Quiz”,5)
 
 2) Next, invoke, the enter_questions method
