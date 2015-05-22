@@ -22,7 +22,7 @@ testQuiz.read_quiz()
 
 5)  Answer it
 
-testQuiz.answer_questions()
+testQuiz.answer_quiz()
 
 
 //Question class is not used.
